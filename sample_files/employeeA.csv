@@ -1,0 +1,6 @@
+EmployeeID,Name,Department,Salary,PerformanceRating,Project,ConfidentialNote
+1001,Asha Sharma,Finance,72000,4.5,Budget Review,Handles quarterly finance data
+1002,Bikash Rai,IT,68000,4.2,Server Migration,Has access to internal system logs
+1003,Chandra Thapa,HR,61000,3.9,Recruitment,Works with employee personal records
+1004,Deepak Gurung,Operations,75000,4.7,Supply Chain,Manages vendor cost information
+1005,Elina Karki,Marketing,59000,4.1,Campaign Analysis,Works with customer response data
